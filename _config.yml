@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
+title:       Surya Mattu Portfolio
 email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+author:      Surya Mattu
+description: "Portfolio Site"
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://samatt.github.io"
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -17,7 +17,7 @@ google_tag_manager:
 bing_verification:
 
 # Optional features
-animated:             false
+animated:             true
 show_related_posts:   false
 show_post_footers:    false
 show_social_icons:    false

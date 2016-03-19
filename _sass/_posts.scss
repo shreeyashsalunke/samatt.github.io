@@ -16,10 +16,24 @@
 
 .post-link .post-title {
   margin-top: 0;
+  margin-bottom:  0;
   font-weight: 600;
   color: #333;
 }
 
+.post-summary {
+  // color: #BBB;
+  font-size: 0.7em;
+  margin-top: 6em;
+  font-family: $datetime-font-family;
+
+}
+.preview{
+  
+  border-left: solid #000000;
+  padding-left: 1em;
+  margin-left: 1em;
+}
 .post-footer {
   @extend .italic;
 
@@ -37,10 +51,12 @@
 .post-meta {
   width: auto;
   font-weight: 300;
-  margin: 0;
-  padding: .25em 0;
+  font-size: small;
+  margin-bottom: 0.4em;
+  padding: .1em 0;
   color: #7a7a7a;
-  font-style: italic;
+  // font-style: italic;
+  font-family: $datetime-font-family;
 }
 
 .related-post-title {
