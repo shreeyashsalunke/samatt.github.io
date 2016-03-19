@@ -2,9 +2,10 @@
 layout:     post
 title:      From The Dark
 date:       2015-04-10
-img:	https://dl.dropboxusercontent.com/u/1108171/website-images/WiFiPeople.png
+img:	images/from-the-dark/WiFiPeople.png
 summary:    Understanding the social nature of the Wi-Fi Protocol.
 categories: wifi networks
+related_posts: Unfit Bits
 ---
 
 

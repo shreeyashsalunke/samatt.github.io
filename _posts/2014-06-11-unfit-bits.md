@@ -2,26 +2,29 @@
 layout:     post
 title:      Unfit Bits
 date:       2014-06-11 15:31:19
-img:	https://dl.dropboxusercontent.com/u/1108171/unfit-bits/gifs/metronome.gif
+img:	images/unfit-bits/metronome.gif
 summary:    Free your fitness from yourself
-categories: jekyll pixyll
+permalink: /unfit-bits/
+categories: data quantified-self 
 ---
 
-Hello.
 
-Pixyll is a simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff. It's mobile _first_, fluidly responsive, and delightfully lightweight.
+Unfit-bits allows you to free your fitness from your self. For more information please visit the [site](http://unfitbits.com)
 
-It's pretty minimal, but leverages large type and drastic contrast to make a statement, on all devices.
 
-<blockquote>
-  <p>
-    Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.
-  </p>
-  <footer><cite title="Antoine de Saint-Exupéry">Antoine de Saint-Exupéry</cite></footer>
-</blockquote>
+<div class="mxn1">
+<img class ="px3" src="https://dl.dropboxusercontent.com/u/1108171/website-images/short-stepper-smaller.gif"/>
+</div>
 
-## Where is it?
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it, request a feature, or report a bug.
+Our pdf fitness guide is also available for download over at [bioanonymous.me](http://biononymous.me/diy-guides/)
 
-It's free, and open source ([MIT](http://opensource.org/licenses/MIT)).
+
+### Selected press
+
+{: .post-content-test}
+ - [Bayerischer Rundfunk](http://www.br.de/radio/bayern2/sendungen/zuendfunk/netz-kultur/netz/fitness-tracker-hacker-100.html), Public Radio Germany, 
+  - [Vice](http://jp.vice.com/lifestyle/internet-yamiichi), Japan
+  - [Bruce Scheiers blog ](https://www.schneier.com/blog/archives/2015/09/spoofing_fitnes.html)
+  - [New York Observer](http://observer.com/2015/09/unfit-bits-target-jawbone-fitbit-fitness-trackers/)
+  - [The Atlantic](http://www.fastcoexist.com/3052277/un-fit-bits-will-help-you-cheat-your-fitness-tracker-and-keep-your-privacy)

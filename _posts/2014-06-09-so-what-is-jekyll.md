@@ -1,9 +1,10 @@
 ---
 layout:     post
-title:      So, What is Jekyll?
+title:      Pro-Bono
 date:       2014-06-09 12:32:18
-summary:    Transform your plain text into static websites and blogs. Simple, static, and blog-aware.
-categories: jekyll pixyll
+img:	images/pro-bono/pro-bono.jpg
+summary:    Pro-Bono I is a powered speaker that turns any input into a U2 song. 
+categories: probono 
 ---
 
 Jekyll is a tool for transforming your plain text into static websites and 
