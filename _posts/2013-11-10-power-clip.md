@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      PowerClip
-date:       2014-06-10 12:31:19
+date:       2013-11-10 12:31:19
 img:  images/power-clip/power-clip.jpg
 summary:    The PowerClip is a device that gives first responders immediate access to power in the wake of an emergency. 
 categories: powerclip
