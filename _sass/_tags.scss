@@ -1,0 +1,20 @@
+.tags {
+
+}
+
+.blog-tag-item {
+  color:gray;
+  // border-right: 1px solid black;
+  padding-right: 0.4em;
+  margin-right: 0.1em;
+  display: inline-block;
+}
+
+.hidden {
+  display: none!important;
+  visibility: hidden!important;
+}
+
+.active {
+  border-style: dotted
+}
