@@ -1,4 +1,4 @@
-{% for page in site.pages %}
+<!-- {% for page in site.pages %}
     {% if page.tags contains "about" %}
         <a href="{{ page.url }}">{{ page.title }}</a>
     {% endif %}
@@ -7,4 +7,12 @@
     {% if page.tags contains "contact" %}
         <a href="{{ page.url }}">{{ page.title }}</a>
     {% endif %}
+{% endfor %} -->
+<div class="tags">
+{% for tag in site.categories %}
+  {% assign t = tag | first %}
+  {% assign posts = tag | last %}
+  <!-- <div>{{t | downcase | replace:" ","-" }} has {{ posts | size }} posts</div> -->
+  <a id='{{ t }}-item'class="blog-tag-item" onclick="filter('{{ t }}'); return false;">{{t | downcase }}</a>
 {% endfor %}
+</div>

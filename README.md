@@ -1,4 +1,6 @@
-# Pixyll
+###Notes
+need this to run `bundle exec jekyll s`
+<!-- # Pixyll
 
 [pixyll.com](http://www.pixyll.com)
 
@@ -200,3 +202,4 @@ There may be merge conflicts, so be sure to fix the files that git lists if they
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+ -->

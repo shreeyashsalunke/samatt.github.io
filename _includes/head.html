@@ -23,7 +23,7 @@
     <link href='//fonts.googleapis.com/css?family=Lato:900,300' rel='stylesheet' type='text/css'>
     {% endif %}
     {% if site.show_social_icons or site.show_sharing_icons %}
-      <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">
     {% endif %}
 
     <!-- MathJax -->
@@ -34,10 +34,10 @@
 
     <!-- Verifications -->
     {% if site.google_verification %}
-      <meta name="google-site-verification" content="{{ site.google_verification }}" />
+    <meta name="google-site-verification" content="{{ site.google_verification }}" />
     {% endif %}
     {% if site.bing_verification %}
-      <meta name="msvalidate.01" content="{{ site.bing_verification }}" />
+    <meta name="msvalidate.01" content="{{ site.bing_verification }}" />
     {% endif %}
 
     <!-- Open Graph -->
@@ -52,7 +52,7 @@
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary" />
     {% if site.twitter_username %}
-        <meta name="twitter:site" content="@{{ site.twitter_username }}" />
+    <meta name="twitter:site" content="@{{ site.twitter_username }}" />
     {% endif %}
     <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
     <meta name="twitter:description" content="{% if page.summary %}{{ page.summary }}{% else %}{{ site.description }}{% endif %}" />
@@ -76,12 +76,82 @@
 
     {% if site.google_analytics %}
     <script type="text/javascript">
-       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-       })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-       ga('create', '{{ site.google_analytics }}', 'auto');
-       ga('send', 'pageview');
-    </script>
-    {% endif %}
+     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+         (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+         m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+     })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+     ga('create', '{{ site.google_analytics }}', 'auto');
+     ga('send', 'pageview');
+ </script>
+ {% endif %}
+
+ <script type="text/javascript">
+    function hasClass(el, className) {
+      if (el.classList)
+        return el.classList.contains(className)
+      else
+        return !!el.className.match(new RegExp('(\\s|^)' + className + '(\\s|$)'))
+    }
+
+    function addClass(el, className) {
+      if (el.classList)
+        el.classList.add(className)
+      else if (!hasClass(el, className)) el.className += " " + className
+    }
+
+    function removeClass(el, className) {
+      if (el.classList)
+        el.classList.remove(className)
+      else if (hasClass(el, className)) {
+        var reg = new RegExp('(\\s|^)' + className + '(\\s|$)')
+        el.className=el.className.replace(reg, ' ')
+      }
+    }
+    function filter(tag) {
+          setActiveTag(tag);
+          showContainer(tag);
+      }
+
+    function setActiveTag(tag) {
+        // loop through all items and remove active class
+
+        var items = document.getElementsByClassName('blog-tag-item');
+
+        for(var i=0; i < items.length; i++) {
+
+            items[i].setAttribute('class', 'blog-tag-item');
+        }
+
+        // set the selected tag's item to active
+        var item = document.getElementById(tag + '-item');
+        // console.log(item);
+        if(item) {
+
+            item.setAttribute('class', 'blog-tag-item active');
+        }
+    }
+
+    function showContainer(tag) {
+    // loop through all lists and hide them
+        var lists = document.getElementsByClassName('post py3');
+
+        for(var i=0; i < lists.length; i++) {
+           if  (hasClass(lists[i], tag) ){
+                removeClass(lists[i], 'hidden');
+           }
+           else{
+                addClass(lists[i], 'hidden');
+           }
+           console.log(tag)
+           console.log(lists[i].className.split(' '))
+            //
+        }
+
+        // remove the hidden class from the list corresponding to the selected tag
+        // var list = document.getElementById(tag + '-container');
+        // if(list) {
+        //     list.setAttribute('class', 'blog-list-container');
+        // }
+    }
+</script>
 </head>

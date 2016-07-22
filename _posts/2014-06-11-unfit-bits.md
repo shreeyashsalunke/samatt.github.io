@@ -1,11 +1,12 @@
 ---
 layout:     post
 title:      Unfit Bits
-date:       2014-06-11 15:31:19
+date:       2015-05-11 15:31:19
 img:	images/unfit-bits/metronome.gif
-summary:    Free your fitness from yourself
+summary:    Free your fitness from yourself. A project that rethinks the role fitness trackers play in the current data driven health insurance landscape.
 permalink: /unfit-bits/
-categories: data quantified-self 
+categories: selected-works all
+tags: data quantified-self 
 ---
 
 
