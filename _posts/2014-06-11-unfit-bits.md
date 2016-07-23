@@ -9,12 +9,15 @@ categories: selected-works all
 tags: data quantified-self 
 ---
 
+<div class="mxn1 embed-container">
+<iframe src="https://player.vimeo.com/video/126071798" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
 
-Unfit-bits allows you to free your fitness from your self. For more information please visit the [site](http://unfitbits.com)
+Unfit Bits offers fitness tracker solutions. It provides simple techniques for generating great fitness data no matter what your lifestyle. For more information please visit the [site](http://unfitbits.com)
 
 
 <div class="mxn1">
-<img class ="px3 center-block" src="https://dl.dropboxusercontent.com/u/1108171/website-images/short-stepper-smaller.gif"/>
+<img class ="center-block" src="https://dl.dropboxusercontent.com/u/1108171/website-images/short-stepper-smaller.gif"/>
 </div>
 
 
