@@ -45,8 +45,8 @@ The great thing about using the Yún is that it has Python on board. It was real
 
 A more detailed description of the system
 
-<div class="mxn1">
-<iframe class="px4" src="//player.vimeo.com/video/77647978" width="670" height="376" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<div class="mxn1 embed-container">
+<iframe class="px3" src="//player.vimeo.com/video/77647978" width="670" height="376" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
 The above figure describes the user interaction with the system. Along with this there is another script that runs periodically on the board to update the local database.

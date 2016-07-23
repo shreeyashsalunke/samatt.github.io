@@ -10,7 +10,7 @@ categories: all research
 
 
 Anonymous data is a myth. From the Dark offers insight into the hidden mechanisms and power struggles within our current communications infrastructure. It brings to light the data we generate with our smart devices and what it reveals about us.
-<div class="mxn1">
+<div class="mxn1 embed-container">
 <iframe class="px4" src="//player.vimeo.com/video/110800707" width="670" height="376" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 Over the last year or so there has been a surge in companies that are providing location based tracking services to brick and mortar stores. Some of the more well known companies include Euclid Analytics and Density. These companies use the Wi-Fi signal from smartphones to track people in space. With the insights gained from the Snowden leaks, it has become clear that the government also uses this technique to identify and track people. 

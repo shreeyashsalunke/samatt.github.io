@@ -195,8 +195,8 @@ send(ip/tcp)
 
 If all went well, you should have seen the paddle move down one step. This video below demonstrates how all this should work. In the video the terminal application hijacks the connection between the Processing client and server and send commands to control the paddle.
 
-<div class="mxn1">
-<iframe class="px4" src="//player.vimeo.com/video/85614657" width="670" height="376" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<div class="mxn1 embed-container">
+<iframe class="px3" src="//player.vimeo.com/video/85614657" width="670" height="376" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
 
