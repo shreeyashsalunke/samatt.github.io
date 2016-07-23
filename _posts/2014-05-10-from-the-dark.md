@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      From The Dark
-date:       2015-04-10
+date:       2014-05-10
 img:	images/from-the-dark/WiFiPeople.png
 summary:    Understanding the social nature of the Wi-Fi Protocol.
 permalink: /from-the-dark/
