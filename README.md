@@ -14,3 +14,10 @@ img block
 <img class ="center-block" src="https://dl.dropboxusercontent.com/u/1108171/website-images/short-stepper-smaller.gif"/>
 </div>
  ```
+
+iframe block
+```
+ <div class="mxn1 embed-container">
+<img src="/images/clouds/5.png" />
+</div>
+```
