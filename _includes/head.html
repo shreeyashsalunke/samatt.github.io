@@ -114,8 +114,14 @@
     }
     function filter(tag) {
           // window.location.href = '/filter/'+tag;
-          setActiveTag(tag);
-          showContainer(tag);
+          if(tag === 'all'){
+            window.location.href = '/';
+          }
+          else{
+              setActiveTag(tag);
+              showContainer(tag);
+          }
+
       }
 
     function setActiveTag(tag) {
