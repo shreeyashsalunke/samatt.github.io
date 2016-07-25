@@ -3,7 +3,7 @@ layout:     post
 title:      Machine Bias
 date:       2016-01-11
 img:	images/propublica/1.png
-summary:    A series of stories on dispirate impact and discrimination caused by algorithms.
+summary:    A series of stories on disparate impact and discrimination caused by algorithms.
 categories: all research
 ---
 

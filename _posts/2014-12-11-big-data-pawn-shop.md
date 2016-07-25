@@ -5,7 +5,7 @@ date:       2014-12-11
 img:  images/big-data-pawn-shop/0.jpg
 summary:    Leaked NSA documents on a variety of merchandise
 permalink: /big-data-pawn-shop/
-categories: all
+categories: all projects
 ---
 
 
