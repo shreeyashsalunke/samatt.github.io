@@ -1,10 +1,10 @@
 # Site settings
-title:       Surya Mattu
-email:       surya@suryamattu.com
-author:      Surya Mattu
+title:       Shreeyash Salunke
+email:       shreeyash.salunke@gmail.com
+author:      Shreeyash Salunke
 description: "Portfolio Site"
 baseurl:     ""
-url:         "http://samatt.github.io"
+url:         "https://shreeyashsalunke.github.io/"
 date_format: "%b %-d, %Y"
 
 # Google services
