@@ -5,7 +5,7 @@ date:       2016-07-20
 img:  images/skylift/skylift-cover.png
 summary:    A geolocation emulator
 permalink: /sky-lift/
-categories: all research
+categories: all process
 ---
 
 <h5><i>Pulse and Bloom is a collaberative project done by <b>Saba Ghole, Shilo Shiv Suleman, Rohan Dixit, Heather Stewart, Luke Iseman,</b> and <b>Samuel Clay</b>. I got an opportunity to work with <b>Kavya D</b> and <b>Shilo Shiv Suleman</b> on this Art Installation<br><br>
