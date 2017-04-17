@@ -4,7 +4,7 @@ title:      Pulse and Bloom
 date:       2016-07-20
 img:  images/skylift/skylift-cover.png
 summary:    A geolocation emulator
-permalink: /sky-lift/
+permalink: /Pulse-and-Bloom/
 categories: all process
 ---
 
