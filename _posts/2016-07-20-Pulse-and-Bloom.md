@@ -8,9 +8,9 @@ permalink: /Pulse-and-Bloom/
 categories: all design-process
 ---
 
-<h5><i>Pulse and Bloom is a collaberative project done by <b>Saba Ghole, Shilo Shiv Suleman, Rohan Dixit, Heather Stewart, Luke Iseman,</b> and <b>Samuel Clay</b>. I got an opportunity to work with <b>Kavya D</b> and <b>Shilo Shiv Suleman</b> on this Art Installation<br><br>
-  Thanks to <b>Avijit Michael</b> and <b>Kalyani Ingole</b>.<br>
-  Special thanks to the amazing <b>Ankit Daftery</b> for his always supporting and helping nature.</i></h5><hr>
+<h5><b><i>Pulse and Bloom is a collaberative project done by Saba Ghole, Shilo Shiv Suleman, Rohan Dixit, Heather Stewart, Luke Iseman, and Samuel Clay. I got an opportunity to work with Kavya D and Shilo Shiv Suleman on this Art Installation<br><br>
+Thanks to Avijit Michael and Kalyani Ingole.<br>
+Special thanks to the amazing Ankit Daftery for his always supporting and helping nature.</i></b></h5><hr>
 
   <img src="/images/pulse-and-bloom/pulse-and-bloom-burning-man.gif">
   <br>
