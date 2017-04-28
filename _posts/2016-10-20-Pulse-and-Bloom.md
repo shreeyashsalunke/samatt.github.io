@@ -4,7 +4,7 @@ title:      Pulse and Bloom
 date:       2016-10-20
 img:  images/pulse-and-bloom/thumbnail-P&B.png
 summary:    Pulse and Bloom is an interactive and social art installation that visualizes participants’ heartbeats and invites people to share and sync their human heartbeats in a rhythmic pattern.
-permalink: /Pulse-and-Bloom/
+permalink: /pulse-and-bloom/
 categories: all design-process
 ---
 
