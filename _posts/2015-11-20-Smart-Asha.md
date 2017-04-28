@@ -24,7 +24,7 @@ categories: all design-process
 <img src="/images/smart-asha/workflow layout final-01.jpg">
 
 <h2>Clickable Prototype:</h2>
-<iframe width="424" height="916" src="//invis.io/G45L5XRX2" frameborder="0" allowfullscreen></iframe>
+<iframe width="424" height="916" src="//invis.io/CD5L5XQQR" frameborder="0" allowfullscreen></iframe>
 
 <h2>Visual Mockups:</h2>
 <img src="/images/smart-asha/ui.gif">
