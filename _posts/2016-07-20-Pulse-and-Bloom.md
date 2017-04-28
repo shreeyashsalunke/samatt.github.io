@@ -2,17 +2,17 @@
 layout:     post
 title:      Pulse and Bloom
 date:       2016-07-20
-img:  images/skylift/skylift-cover.png
-summary:    A geolocation emulator
+img:  images/pulse-and-bloom/thumbnail-P&B.png
+summary:    Pulse and Bloom is an interactive and social art installation that visualizes participants’ heartbeats and invites people to share and sync their human heartbeats in a rhythmic pattern.
 permalink: /Pulse-and-Bloom/
-categories: all process
+categories: all design-process
 ---
 
 <h5><i>Pulse and Bloom is a collaberative project done by <b>Saba Ghole, Shilo Shiv Suleman, Rohan Dixit, Heather Stewart, Luke Iseman,</b> and <b>Samuel Clay</b>. I got an opportunity to work with <b>Kavya D</b> and <b>Shilo Shiv Suleman</b> on this Art Installation<br><br>
   Thanks to <b>Avijit Michael</b> and <b>Kalyani Ingole</b>.<br>
   Special thanks to the amazing <b>Ankit Daftery</b> for his always supporting and helping nature.</i></h5><hr>
 
-  <img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/pulse-and-bloom-burning-man.gif">
+  <img src="/images/pop/pulse-and-bloom-burning-man.gif">
   <br>
   Pulse and Bloom is an interactive and social art installation that visualizes participants’ heartbeats and invites people to share and sync their human heartbeats in a rhythmic pattern. Pulse and Bloom is one of the largest biofeedback installations of its kind, allowing 40 people to visualize their heartbeats simultaneously.
 
