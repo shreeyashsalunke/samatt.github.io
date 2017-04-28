@@ -8,7 +8,6 @@ permalink: /smart-asha/
 categories: all design-process
 ---
 
-<img src="/images/smart-asha/proces-board v4-02.png">
 <img src="/images/smart-asha/proces-board v4-03.png">
 <img src="/images/smart-asha/proces-board v4-04.png">
 <img src="/images/smart-asha/proces-board v4-05.png">
@@ -25,6 +24,7 @@ categories: all design-process
 
 <h2>Clickable Prototype:</h2>
 <iframe width="424" height="916" src="//invis.io/CD5L5XQQR" frameborder="0" allowfullscreen></iframe>
+(If the embedded clickable-prototype doesn't work, please visit <a href="https://invis.io/CD5L5XQQR">https://invis.io/CD5L5XQQR<a>)
 
 <h2>Visual Mockups:</h2>
 <img src="/images/smart-asha/ui.gif">
