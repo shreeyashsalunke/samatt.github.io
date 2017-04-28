@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      My Presentation at IndiaHCI 2016
+title:      My Presentation at IndiaHCI'16
 date:       2016-12-20
 img:  images/india-hci/thumbnail-indiahci.jpg
 summary:    A frugal and innovative tool for visually impaired people to fill up hot and cold beverages in cups, mug, tumbler, etc.
