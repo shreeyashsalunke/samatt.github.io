@@ -23,7 +23,7 @@ categories: all design-process
 <img src="/images/smart-asha/workflow layout final-01.jpg">
 
 <h2>Clickable Prototype:</h2>
-<iframe width="424" height="916" src="//invis.io/CD5L5XQQR" frameborder="0" allowfullscreen></iframe>
+<iframe width="300" src="//invis.io/CD5L5XQQR" frameborder="0" allowfullscreen></iframe>
 (If the embedded clickable-prototype doesn't work, please visit <a href="https://invis.io/CD5L5XQQR">https://invis.io/CD5L5XQQR<a>)
 
 <h2>Visual Mockups:</h2>
