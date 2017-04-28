@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Smart Asha
-date:       2015-11-20
+date:       2015-09-20
 img:  images/smart-asha/thumbnail-smartasha.png
 summary:    Smart Asha is NFC based smart mamata card and mobile app solution to monitor child growth and nutrition. It tries to bridge the communication gap between the doctors and the pregnant women by empowering Asha to communicate better to the pregnant women about the developmental milestones in child growth.
 permalink: /smart-asha/

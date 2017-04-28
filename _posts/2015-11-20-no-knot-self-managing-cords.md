@@ -8,7 +8,6 @@ permalink: /no-knot-self-managing-cords/
 categories: all design-process
 ---
 
-<h2>Video</h2>
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/189789312?autoplay=1&title=0&byline=0&portrait=0' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
 Inspired from the work by Hiroshi Ishii on Shape Changing Interface and concepts like Tangible Interfaces and Radical Atom, my research started with investigation in programmable material. After exploring different materials, I had narrowed down on a Shape Memory Alloy called Nitinol.
