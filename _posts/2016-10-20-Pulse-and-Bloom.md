@@ -58,26 +58,26 @@ Special thanks to the amazing Ankit Daftery for his always supporting and helpin
   The main circuit board controls 2 addressable RGB LED Neopixel Strip, 3 sets of 3 (i.e. 9) High Power RGB LEDs and takes input from 2 pulse sensors. The LED Strip and the High Power RGB LEDs runs on 12V supply, the ATMega328p microcontrollers runs on 5V and the Pulse Sensors run 3.3V.
   <br><br>
   To convert 12V to 5V, I used an off-the-shelf voltage regulator. This required a +/- connection for both 12V in and 5V out. To convert 5V to 3.3V I used a SMD linear voltage regulator which was soldered directly on the board. The trace to the LED strip and High Power LEDs were thickened to provide upto 3A of current rating, while they consumed only around 1A current to avoid heat dissipation. Finally, all of the terminations are made using 2.5mm and 3.5mm pitch screw terminals.
-  <figure><center><img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/board/board-schematics.png">
+  <figure><center><img src="/images/pulse-and-bloom/board-schematics.png">
   <figcaption align="center"><h5>Board Schematics</h5></figcaption></center></figure>
-  <figure><center><img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/board/board-preview.png"></center>
+  <figure><center><img src="/images/pulse-and-bloom/board-preview.png"></center>
   <figcaption align="center"><h5>Board Layout</h5></figcaption></figure>
   <center>
-      <img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/08.jpg" width="48%">
-      <img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/12.jpg" width="48%">
+      <img src="/images/pulse-and-bloom/08.jpg" width="48%">
+      <img src="/images/pulse-and-bloom/12.jpg" width="48%">
   </center>
-  <img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/09.jpg">
+  <img src="/images/pulse-and-bloom/09.jpg">
 
 
   <p><a name="pulse-sensors"></a></p>
   <h3>Making the custom pulse sensors</h3>
   The Pulse Sensor was built by the design made by <i>Samuel Clay</i>. <br>
   Link to the schematics and the brd file <a href="https://github.com/samuelclay/pulse-bloom/tree/master/pulse%20eagle">here</a>.<br>
-  <figure><center><img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/Pulse & Bloom - sensor schematic.png">
+  <figure><center><img src="/images/pulse-and-bloom/Pulse & Bloom - sensor schematic.png">
   <figcaption align="center"><h5>Pulse Sensor Schematics</h5></figcaption></center></figure>
-  <figure><center><img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/Pulse & Bloom - sensor layout.png" width="500px">
+  <figure><center><img src="/images/pulse-and-bloom/Pulse & Bloom - sensor layout.png" width="500px">
   <figcaption align="center"><h5>Pulse Sensor Board Layout</h5></figcaption></center></figure>
-  <img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/13.jpg">
+  <img src="/images/pulse-and-bloom/13.jpg">
 
 
   <p><a name="leds"></a></p>
@@ -86,10 +86,10 @@ Special thanks to the amazing Ankit Daftery for his always supporting and helpin
   <br><br>
   We bought these High Power LEDs from a chineese distributor over buying it from Sparkfun. This saved a lot of monet. On the contrary we bought the original picobucks from Sparkfun. We ordered 200 odd LEDs, from which 5% had issues like LED leg broken, one colour not working and so on.
   <center>
-    <img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/10.jpg" width="48%">
-    <img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/11.jpg" width="48%">
+    <img src="/images/pulse-and-bloom/10.jpg" width="48%">
+    <img src="/images/pulse-and-bloom/11.jpg" width="48%">
   </center>
-  <img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/led-picobuck-connection-diagram.png">
+  <img src="/images/pulse-and-bloom/led-picobuck-connection-diagram.png">
 
 
 
@@ -97,32 +97,11 @@ Special thanks to the amazing Ankit Daftery for his always supporting and helpin
   <h3>Powering the lotuses</h3>
 
   <h3>Endless cycle of Testing and Debugging :P</h3>
-  <img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/14.jpg">
-  <img src="https://raw.githubusercontent.com/shreeyashsalunke/Pulse-and-Bloom-v2/master/images/15.jpg">
+  <img src="/images/pulse-and-bloom/14.jpg">
+  <img src="/images/pulse-and-bloom/15.jpg">
 
   <p><a name="software"></a></p>
   <h2>The Software</h2>
 
   <p><a name="fab"></a></p>
   <h2>Fabrication of the Lotus Structure and the Aesthetics</h2>
-
-
-
-
-SKYLIFT is a geolocation emulator that virtually relocates visitors to Julian Assange’s residence at the Ecuadorian Embassy in London. The device was made for !Mediengruppe Bitnik’s Assange room (currently at Zoo Galerie) and works by broadcasting WiFi signals that exploit a smartphone’s reliance on using nearby MAC addresses for location services.
-
-I did the inital research and worked on the proof-of-concept for this piece.
-
-<div class="mxn1 center block">
-<img src="/images/skylift/skylift-anim-01.gif" />
-</div>
-
-### Background
-
-This piece focuses on exposing the novel ways in which we are now tracked through our geolocation. While traditionally geolocation was only done using GPS, since the early teens smartphone have relied on GPS and Wi-Fi information to accurately geolocate devices. In order to spoof a devices location we only needed to generate Wi-Fi beacons that were captured from somewhere, in this case, Julian Assannges residence at the Ecudorian Embassy.  This was done using a raspberry pi.
-
-<div class="mxn1 center">
-<img src="/images/skylift/skylift-07.jpg" />
-</div>
-
-For more information on this piece I reccomend checking out [Adam Harveys post]() on the subject.
