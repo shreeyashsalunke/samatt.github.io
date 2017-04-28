@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Pulse and Bloom
-date:       2016-07-20
+date:       2016-10-20
 img:  images/pulse-and-bloom/thumbnail-P&B.png
 summary:    Pulse and Bloom is an interactive and social art installation that visualizes participants’ heartbeats and invites people to share and sync their human heartbeats in a rhythmic pattern.
 permalink: /Pulse-and-Bloom/
@@ -12,7 +12,7 @@ categories: all design-process
   Thanks to <b>Avijit Michael</b> and <b>Kalyani Ingole</b>.<br>
   Special thanks to the amazing <b>Ankit Daftery</b> for his always supporting and helping nature.</i></h5><hr>
 
-  <img src="/images/pop/pulse-and-bloom-burning-man.gif">
+  <img src="/images/pulse-and-bloom/pulse-and-bloom-burning-man.gif">
   <br>
   Pulse and Bloom is an interactive and social art installation that visualizes participants’ heartbeats and invites people to share and sync their human heartbeats in a rhythmic pattern. Pulse and Bloom is one of the largest biofeedback installations of its kind, allowing 40 people to visualize their heartbeats simultaneously.
 
