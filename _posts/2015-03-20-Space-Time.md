@@ -3,8 +3,8 @@ layout:     post
 title:      Space Time
 date:       2015-03-20
 img:  images/level-up/thumbnail-levelup-v2.png
-summary:    Space Time is a kinect based sound installation to experience subjectivity of duration.
-permalink: /level-up/
+summary:    Space Time is a kinect based sound installation to experience subjectivity of duration and relativity of time.
+permalink: /space-time/
 categories: all design-process
 ---
 
