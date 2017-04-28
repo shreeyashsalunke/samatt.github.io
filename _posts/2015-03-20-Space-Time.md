@@ -2,18 +2,25 @@
 layout:     post
 title:      Space Time
 date:       2015-03-20
-img:  images/level-up/thumbnail-levelup-v2.png
+img:  images/space-time/spacetime.png
 summary:    Space Time is a kinect based sound installation to experience subjectivity of duration and relativity of time.
 permalink: /space-time/
 categories: all design-process
 ---
 
+<img src="/images/space-time/Panel1.jpg">
+<img src="/images/space-time/Panel2.jpg">
+<img src="/images/space-time/Panel3.jpg">
+
+
+<h2>Prototype Video</h2>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/189798525?title=0&byline=0&portrait=0' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+
 <h5><span style="color:red;">Level Up was made as a part of a 5 day Hackathon arranged by MIT Media Labs and LV Prasad Eye Institute in Hyderabad</span><br><br>
 <i>Created in collaboration with Sanchit Kumar Agarwal and Sarvesh Pimpalkar<br>
 Thanks to Sujeath Pareddy, Dhruv Joshi, Mohan, Manish and Beula Christy, LV Prasad Eye Institute</i></h5><hr>
 
-<h2>Prototype Video</h2>
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/189798525?title=0&byline=0&portrait=0' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+
 
 
 In our hectic routine we perform simple tasks like filling up a glass of water and serving tea or coffee which although sounds very simple becomes very difficult when the visual feedback is removed from the scenario. Visually impaired people have a great difficulty in filling up liquids on a vessel and are not very confident to do it themselves with a fear of spilling things over.
