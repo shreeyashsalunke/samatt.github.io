@@ -19,7 +19,7 @@ In this paper, we introduce, a bidirectional haptic I/O which varies its tactili
 <h2>Presented at</h2>
 8th Indian Conference on Human Computer Interaction​, India (IHCI)​ 2016, Mumbai, India​ 
 
-<a href="https://drive.google.com/file/d/0B3UDU3KHnm_kRmx3OV9YQUt0eVk/view" >Download paper<a>
+<a href="https://drive.google.com/file/d/0B3UDU3KHnm_kRmx3OV9YQUt0eVk/view" target="_blank">Download paper<a>
 
 <figure><center><img src="/images/india-hci/award.jpg" width="300">
 <figcaption align="center"><h5>Received 'Best Presentation by Student' Award</h5></figcaption></center></figure>
