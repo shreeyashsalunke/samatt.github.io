@@ -14,6 +14,6 @@
   {% assign posts = tag | last %}
   <!-- <div>{{t | downcase | replace:" ","-" }} has {{ posts | size }} posts</div> -->
   <a id='{{ t }}-item'class="blog-tag-item" onclick="filter('{{ t }}'); return false;">{{t | downcase }}</a>
-  go to portfolio
 {% endfor %}
+<span class="blog-tag-item"><a href="http://shreeyashsalunke.com">go to portfolio<a></span>
 </div>
