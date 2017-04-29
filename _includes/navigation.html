@@ -8,12 +8,9 @@
         <a href="{{ page.url }}">{{ page.title }}</a>
     {% endif %}
 {% endfor %} -->
-<a href="http://shreeyashsalunke.com" class="blog-tag-item">Visit Portfolio<a>
+<span style:"text-align:right;"><a href="http://shreeyashsalunke.com" class="blog-tag-item">Visit Portfolio<a>
 
 <div class="tags">
-
-<br><br>
-
 {% for tag in site.categories %}
   {% assign t = tag | first %}
   {% assign posts = tag | last %}
