@@ -9,13 +9,16 @@
     {% endif %}
 {% endfor %} -->
 <div class="tags">
-<span style:"text-align: right;"><a href="http://shreeyashsalunke.com">Visit Portfolio<a></span>
-<br><br>
+
+<a href="http://shreeyashsalunke.com" class="blog-tag-item">Visit Portfolio<a>
+<br>
+
 {% for tag in site.categories %}
   {% assign t = tag | first %}
   {% assign posts = tag | last %}
   <!-- <div>{{t | downcase | replace:" ","-" }} has {{ posts | size }} posts</div> -->
   <a id='{{ t }}-item'class="blog-tag-item" onclick="filter('{{ t }}'); return false;">{{t | downcase }}</a>
 {% endfor %}
+
 
 </div>
