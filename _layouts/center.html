@@ -1,6 +1,28 @@
 <!DOCTYPE html>
 <html>
 {% include head.html %}
+
+<script type="text/javascript" src="dat.gui.js"></script>
+<script type="text/javascript">
+    
+var FizzyText = function() {
+  this.message = 'Shreeyash';
+  this.speed = 0.8;
+  this.displayOutline = false;
+  this.explode = function() { ... };
+  // Define render logic ...
+};
+
+window.onload = function() {
+  var text = new FizzyText();
+  var gui = new dat.GUI();
+  gui.add(text, 'message');
+  gui.add(text, 'speed', -5, 5);
+  gui.add(text, 'displayOutline');
+  gui.add(text, 'explode');
+};
+    
+</script>
 <body class="site{% if site.animated %} animated fade-in-down{% endif %}">
     {% if site.google_tag_manager %}
     <noscript><iframe src="//www.googletagmanager.com/ns.html?id={{ site.google_tag_manager }}"
